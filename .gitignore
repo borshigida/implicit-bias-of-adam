@@ -1,0 +1,8 @@
+*.png
+*.pdf
+*.npy
+*.pickle
+auto/
+logs/
+histories/
+checkpoints/
