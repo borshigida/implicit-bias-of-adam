@@ -1,6 +1,6 @@
 # On the Implicit Bias of Adam
 
-This repository contains source code for the ICML 2024 paper “On the Implicit Bias of Adam” by M. D. Cattaneo, J. M. Klusowski, B. Shigida.
+This repository contains source code for the ICML 2024 paper “[On the Implicit Bias of Adam](https://proceedings.mlr.press/v235/cattaneo24a.html)” by M. D. Cattaneo, J. M. Klusowski, B. Shigida.
 
 ## Installation
 
